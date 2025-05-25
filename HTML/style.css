@@ -1,0 +1,17 @@
+body {
+    background-color: lightgray; 
+}
+
+h1 {
+    color: navy;
+}
+
+div {
+    color: white;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+
+body {
+    background-color: beige; 
+}
